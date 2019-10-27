@@ -1,0 +1,69 @@
+Regarding reference material for this course:
+
+I prepare lectures based on various papers, books and my own experience. You are expected to attend lectures, study the papers and form your own understanding. Most of the papers you are expected to study are mentioned below. 
+
+You may find some books helpful in your endeavor to form your own understanding. But note well that there is NO single book to be used as the text-book for any of the courses I take.
+
+Also you are advised to avoid locally authored/published books as they may contain material of questionable quality and may potentially be outright misleading.
+
+You may be notified about the updates to the list of reference material as needed.
+
+Links to most papers are given at the end.
+
+For DBMS - 
+
+Books on DBMS - 
+ - C.J Date - An introduction to database systems
+
+ This is a good introductory book and you may wish to read it to compliment your study.
+
+Papers to refer:
+Foundational papers by E.F. Codd -
+ - A Relational Model of Data for Large Shared Data Banks.pdf
+ - codd-relational-completeness-of-db-sublanguages.pdf
+ - codd-Extending-the-Database-Relational-Modelto-Capture-More-Meaning.pdf
+
+Papers on data dependancies -
+ - Functional-dependencies-in-a-relational-database-and-propositional-logic.pdf
+ - A-note-on-relation-schemes-which-are-in-3NF-but-not-in-BCNF.pdf
+ - Horn-clauses-and-database-dependencies.pdf
+ - fagin-vardi-survey-of-data-dependencies-theories.pdf
+ - Armstrong-databases-for-functional-and-inclusion-dependencies.pdf
+ - Armstrong-databases.pdf
+ - Equivalence-between-Relational-Database-Dependencies-and-a-Fragment-of-Propositional-Logic.pdf
+ - Inclusion-dependencies-and-their-interaction-with-functional-dependencies.pdf
+ - On-the-structure-of-Armstrong-relations-for-functional-dependencies.pdf
+ - Tools-for-template-dependencies.pdf
+
+Papers on normal forms -
+ - Normal-forms-and-relational-database-operators.pdf
+ - Response-to-Remarks-on-two-new-theorems-of-Date-and-Fagin.pdf
+ - Simple-conditions-for-guaranteeing-higher-normal-forms-for-relational-databases.pdf
+ - The-decomposition-versus-the-synthetic-approach-to-relational-database-design.pdf
+
+Papers on query processing -
+ - chandra-merlin-optimal-implementation-of-conjunctive-queries-in-relational-data-bases.pdf
+ - chaudhuri-vardi-optimization-of-real-conjunctive-queries.pdf
+ - On-the-semantics-of-updates-for-databases.pdf
+ - Updating-logical-databases.pdf
+ - An-Overview-of-Query-Optimization-in-Relational-Systems.pdf
+ - An-Overview-of-Cost-based-Optimization-of-Queries-with-Aggregates.pdf
+ - Optimizing-Join-Orders.pdf
+
+Other relevant papers -
+ - codd-turing-award-lecture.pdf
+ - Efficient-Implementation-of-Large-Scale-Multi-Structural-Databases.pdf
+ - On-the-desirability-of-acyclic-database-schemes.pdf
+ - Degrees-of-acyclicity-for-hypergraphs-and-relational-database-schemes.pdf
+ - ioannidis-raghu-containment-of-conjunctive-queries-beyond-relations-as-sets.pdf
+ - sagiv-yannakakis-equivalences-among-relational-expressions-with-the-union-and-difference-operators.pdf
+
+For sqlite -
+ - https://sqlite.org/2017/sqlite-doc-3190300.zip
+ - http://www.w3resource.com/sqlite/
+ - http://www.w3resource.com/sqlite/sqlite-triggers.php
+
+Links:
+[dbms] https://drive.google.com/drive/folders/0B7n-NspNRsVYcUVkUmptdXRGck0
+
+

@@ -1,0 +1,19 @@
+00001,00001-0-weightValRule,1,-1
+00001,00001-0-weightValRule,2,-1
+00001,00001-0-dimension1,1,-1
+00001,00001-0-dimension1,2,-1
+00001,00001-0-dimension2,1,-1
+00001,00001-0-dimension2,2,-1
+00001,00001-0-dimension3,1,-1
+00001,00001-0-dimension3,2,-1
+00001,00001-0-color,1,noColor
+00001,00001-0-manufacturerNameValRule,1,noMfgname
+00001,00001-0-mfgDateValRule,1,nomfgDate
+00001,00001-0-priceValRule,-1
+00001,00001-0-instructionsValRule,put the instructions regarding usage and other aspects of the product in this container
+00001,00001-0-subInstruction1,1,this subInstruction is under the instructions
+00001,00001-0-subInstruction2,2,this subInstruction is under the instructions
+00001,00001-0-subInstruction3,3,this subInstruction is under the instructions
+00001,00001-0-subInstruction4,4,this subInstruction is under the instructions
+00001,00001-0-urlValRule,http://gootax.com/
+

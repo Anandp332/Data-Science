@@ -1,0 +1,151 @@
+00002,00002-499927-weight,1,0.1
+00002,00002-499927-weight,2,0.5
+00002,00002-499927-dimensions1,1,0.3
+00002,00002-499927-dimensions1,2,0.5
+00002,00002-499927-dimensions2,1,0.2
+00002,00002-499927-dimensions2,2,0.4
+00002,00002-499927-dimensions3,1,0.1
+00002,00002-499927-dimensions3,2,0.3
+00002,00002-499927-color,1,red
+00002,00002-499927-color,2,brown
+00002,00002-499927-color,3,black
+00002,00002-499927-manufacturerName,1,ESAB
+00002,00002-499927-mfgDate,1,10/10/1994
+00002,00002-499927-price,1,200.0
+00002,00002-499927-price,2,400.0
+00002,00001-0-instructions,1,helmet instructions
+00002,00001-0-subInstruction1,1,Never place the welding helmet on heat surface
+00002,00001-0-subInstruction2,1,Never open or temper with the filter cartridge
+00002,00001-0-subInstruction3,1,Do not immerse in water
+00002,00001-0-subInstruction4,1,Clean the helmet with mild soap and luckwarm water
+00002,00001-0-subInstruction5,1,Do not use welding helmet when
+00002,00001-0-subInstruction6,1,helmet provide protection for intended purpose only
+00002,00001-0-subInstruction7,1,maintain helmet and lens correctly
+00002,00001-0-subInstruction8,1,replacement parts and accessories
+00002,00001-0-subInstruction5-01,1,if the lens is cracked
+00002,00001-0-subInstruction5-02,2,if the lens or front retaining frame is loose
+00002,00001-0-subInstruction6-01,1,the welding helmet is not suitable for plasma cutting or laser welding
+00002,00001-0-subInstruction6-02,2,the welding helmet will not protect against explosive devices
+00002,00001-0-subInstruction7-01,1,clean filters surfaces regularly
+00002,00001-0-subInstruction7-02,2,Regularly replace the Front Lens Cover if it becomes cracked or scratched or damaged
+00002,00001-0-subInstruction8-01,1,when servicing use only identical replacement parts
+00002,00001-0-subInstruction8-02,2,only use accessories intended for use with this helmet
+00002,00002-499927-url,1,www.amazon.com
+00002,00002-499927-helmetGlass,1,fibre proof
+00002,00002-499927-helmetMaterial,1,fibre
+00002,00002-499927-sizeOfHelmet,1,medium
+00002,00002-499927-sizeOfHelmet,2,small
+00002,00002-499927-sizeOfHelmet,3,large
+00002,00001-0-yesNoTypeValRule,1,yes
+00002,00001-0-yesNoTypeValRule,2,no
+00002,00002-499927-helmetFeatures,1,with goggles
+00002,00002-499927-protection,1,harmful light protected
+00002,00002-499927-arcWelding,2,fully automated
+00002,00002-499927-weldingLens,3,Athermal green lenses
+00002,00002-499927-ultravioletLightProtection,1,380
+00002,00002-499927-ultravioletLightProtection,2,450
+00002,00002-499927-isSparksProtection,1,yes
+00002,00002-499927-infraredLightProtection,1,300
+00002,00002-499927-infraredLightProtection,2,450
+00002,00002-499927-heatProtection,1,8.0
+00002,00002-499927-heatProtection,2,10.0
+00002,00001-0-yesNoTypeValRule,3,yes
+00002,00001-0-yesNoTypeValRule,4,no
+00002,00001-0-yesNoTypeValRule,5,no
+00002,00002-499927-weldingLensGlassThickness,1,0.5
+00002,00002-499927-weldingLensGlassThickness,2,1.9
+00002,00002-499927-weldingLensColor,1,green
+00002,00002-499927-weldingLensColor,2,red
+00002,00002-499927-weldingLensColor,3,blue
+00002,00002-499927-weldingLensShade,1,14
+00002,00002-499927-weldingLensShade,2,10
+00002,00002-499927-weldingLensShade,3,5
+00002,00002-499927-01-weight,1,0.4
+00002,00002-499927-01-weight,2,0.5
+00002,00002-499927-01-dimensions1,1,0.1
+00002,00002-499927-01-dimensions1,2,0.6
+00002,00002-499927-01-dimensions2,1,0.2
+00002,00002-499927-01-dimensions2,2,0.4
+00002,00002-499927-01-dimensions3,1,0.3
+00002,00002-499927-01-dimensions3,2,0.5
+00002,00002-499927-01-color,1,yellow
+00002,00002-499927-01-color,2,black
+00002,00002-499927-01-manufacturerName,1,Cigweld
+00002,00002-499927-01-mfgDate,1,10/12/2016
+00002,00002-499927-01-price,1,300.0
+00002,00002-499927-01-price,2,500.0
+00002,00002-499927-01-url,1,www.amazon.com
+00002,00002-499927-01-helmetGlass,1,fibre proof
+00002,00002-499927-01-helmetMaterial,1,fibre
+00002,00002-499927-01-sizeOfHelmet,1,small
+00002,00002-499927-01-sizeOfHelmet,2,medium
+00002,00002-499927-01-sizeOfHelmet,3,large
+00002,00001-0-yesNoTypeValRule,6,yes
+00002,00001-0-yesNoTypeValRule,7,no
+00002,00002-499927-01-helmetFeatures,1,with goggles
+00002,00002-499927-01-protection,1,harmful light protected
+00002,00002-499927-01-arcWelding,2,fully automated
+00002,00002-499927-01-weldingLens,3,Athermal green lenses
+00002,00002-499927-01-ultravioletLightProtection,1,320
+00002,00002-499927-01-ultravioletLightProtection,2,480
+00002,00001-0-yesNoTypeValRule,8,0
+00002,00002-499927-01-infraredLightProtection,1,300
+00002,00002-499927-01-infraredLightProtection,2,480
+00002,00002-499927-01-heatProtection,1,8.0
+00002,00002-499927-01-heatProtection,2,10.0
+00002,00001-0-yesNoTypeValRule,9,no
+00002,00001-0-yesNoTypeValRule,10,yes
+00002,00001-0-yesNoTypeValRule,11,no
+00002,00002-499927-01-weldingLensGlassThickness,1,0.6
+00002,00002-499927-01-weldingLensGlassThickness,2,1.9
+00002,00002-499927-01-weldingLensColor,1,green
+00002,00002-499927-01-weldingLensColor,2,red
+00002,00002-499927-01-weldingLensColor,3,blue
+00002,00002-499927-01-weldingLensShade,1,12
+00002,00002-499927-01-weldingLensShade,2,10
+00002,00002-499927-01-weldingLensShade,3,5
+00002,00002-499927-02-weight,1,0.3
+00002,00002-499927-02-weight,2,0.5
+00002,00002-499927-02-dimensions1,1,0.5
+00002,00002-499927-02-dimensions1,2,0.6
+00002,00002-499927-02-dimensions2,1,0.2
+00002,00002-499927-02-dimensions2,2,0.4
+00002,00002-499927-02-dimensions3,1,0.1
+00002,00002-499927-02-dimensions3,2,0.3
+00002,00002-499927-02-color,1,yellow
+00002,00002-499927-02-color,2,black
+00002,00002-499927-02-manufacturerName,1,CEMONT
+00002,00002-499927-02-mfgDate,1,03/01/2017
+00002,00002-499927-02-price,1,300.0
+00002,00002-499927-02-price,2,500.0
+00002,00002-499927-02-url,1,www.amazon.com
+00002,00002-499927-02-helmetGlass,1,fibre proof
+00002,00002-499927-02-helmetMaterial,1,steel
+00002,00002-499927-02-sizeOfHelmet,1,small
+00002,00002-499927-02-sizeOfHelmet,2,medium
+00002,00002-499927-02-sizeOfHelmet,3,large
+00002,00001-0-yesNoTypeValRule,12,yes
+00002,00001-0-yesNoTypeValRule,13,no
+00002,00002-499927-02-helmetFeatures,1,with goggles
+00002,00002-499927-02-protection,1,harmful light protected
+00002,00002-499927-02-arcWelding,2,fully automated
+00002,00002-499927-02-weldingLens,3,Athermal gold coated lenses
+00002,00002-499927-02-ultravioletLightProtection,1,350
+00002,00002-499927-02-ultravioletLightProtection,2,450
+00002,00001-0-yesNoTypeValRule,14,yes
+00002,00002-499927-02-infraredLightProtection,1,300
+00002,00002-499927-02-infraredLightProtection,2,490
+00002,00002-499927-02-heatProtection,1,7.8
+00002,00002-499927-02-heatProtection,2,10.0
+00002,00001-0-yesNoTypeValRule,15,yes
+00002,00001-0-yesNoTypeValRule,16,no
+00002,00001-0-yesNoTypeValRule,17,yes
+00002,00002-499927-02-weldingLensGlassThickness,1,0.5
+00002,00002-499927-02-weldingLensGlassThickness,2,1.9
+00002,00002-499927-02-weldingLensColor,1,green
+00002,00002-499927-02-weldingLensColor,2,red
+00002,00002-499927-02-weldingLensColor,3,blue
+00002,00002-499927-02-weldingLensShade,1,14
+00002,00002-499927-02-weldingLensShade,2,10
+00002,00002-499927-02-weldingLensShade,3,11
+

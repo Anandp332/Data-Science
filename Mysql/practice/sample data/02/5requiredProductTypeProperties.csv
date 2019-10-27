@@ -1,0 +1,102 @@
+00002,499927,weight,0.1
+00002,499927,dimensions1,0.3
+00002,499927,dimensions2,0.2
+00002,499927,dimensions3,0.1
+00002,499927,color,red
+00002,499927,manufacturerName,abc
+00002,499927,mfgDate,10/10/1994
+00002,499927,price,200.0
+00002,499927,instructions,helmet instructions
+00002,499927,subInstruction1,Never place the welding helmet on heat surface
+00002,499927,subInstruction2,Never open or temper with the filter cartridge
+00002,499927,subInstruction3,Do not immerse in water
+00002,499927,subInstruction4,Clean the helmet with mild soap and luckwarm water
+00002,499927,subInstruction5,Do not use welding helmet when
+00002,499927,subInstruction6,helmet provide protection for intended purpose only
+00002,499927,subInstruction7,maintain helmet and lens correctly
+00002,499927,subInstruction8,replacement parts and accessories
+00002,499927,subInstruction5-01,if the lens is cracked
+00002,499927,subInstruction5-02,if the lens or front retaining frame is loose
+00002,499927,subInstruction6-01,the welding helmet is not suitable for plasma cutting or laser welding
+00002,499927,subInstruction6-02,the welding helmet will not protect against explosive devices
+00002,499927,subInstruction7-01,clean filters surfaces regularly
+00002,499927,subInstruction7-02,Regularly replace the Front Lens Cover if it becomes cracked or scratched or damaged
+00002,499927,subInstruction8-01,when servicing use only identical replacement parts
+00002,499927,subInstruction8-02,only use accessories intended for use with this helmet
+00002,499927,url,www.amazon.com
+00002,499927,helmetGlass,fiber proof
+00002,499927,isHelmetWaterproof,yes
+00002,499927,isHelmetSmart,no
+00002,499927,helmetMaterial,fiber
+00002,499927,sizeOfHelmet,medium
+00002,499927,helmetFetures,with goggles
+00002,499927,protection,harmful light protected
+00002,499927,arcWelding,fully automated
+00002,499927,weldingLens,Athermal green lenses 
+00002,499927,ultravioletLightProtection,385
+00002,499927,isSparksProtection,yes
+00002,499927,infraredLightProtection,350
+00002,499927,heatProtection,8.9
+00002,499927,isShieldedMetalArcWelding,yes
+00002,499927,isGasTungstenArcWelding,yes
+00002,499927,isGasMetalArcWelding,yes
+00002,499927,weldingLensGlassThickness,1.8
+00002,499927,weldingLensColor,green
+00002,499927,weldingLensShade,14
+00002,499927-01,weight,0.4
+00002,499927-01,dimensions1,0.1
+00002,499927-01,dimensions2,0.2
+00002,499927-01,dimensions3,0.3
+00002,499927-01,color,blue
+00002,499927-01,manufacturerName,abcd
+00002,499927-01,mfgDate,10/11/1995
+00002,499927-01,price,300.0
+00002,499927-01,url,www.amazon.com
+00002,499927-01,helmetGlass,fiber proof
+00002,499927-01,isHelmetWaterproof,yes
+00002,499927-01,isHelmetSmart,no
+00002,499927-01,helmetMaterial,fibre
+00002,499927-01,sizeOfHelmet,medium
+00002,499927-01,helmetFetures,with goggles
+00002,499927-01,protection,harmful light protected
+00002,499927-01,arcWelding,fully automated
+00002,499927-01,weldingLens,Athermal green lenses 
+00002,499927-01,ultravioletLightProtection,370
+00002,499927-01,isSparksProtection,yes
+00002,499927-01,infraredLightProtection,390
+00002,499927-01,heatProtection,9.2
+00002,499927-01,isShieldedMetalArcWelding,yes
+00002,499927-01,isGasTungstenArcWelding,yes
+00002,499927-01,isGasMetalArcWelding,yes
+00002,499927-01,weldingLensGlassThickness,1.7
+00002,499927-01,weldingLensColor,blue
+00002,499927-01,weldingLensShade,10
+00002,499927-02,weight,0.3
+00002,499927-02,dimensions1,0.5
+00002,499927-02,dimensions2,0.2
+00002,499927-02,dimensions3,0.1
+00002,499927-02,color,yellow
+00002,499927-02,manufacturerName,efg
+00002,499927-02,mfgDate,11/10/1996
+00002,499927-02,price,100.0
+00002,499927-02,url,www.amazon.com
+00002,499927-02,helmetGlass,fiber proof
+00002,499927-02,isHelmetWaterproof,yes
+00002,499927-02,isHelmetSmart,no
+00002,499927-02,helmetMaterial,steel
+00002,499927-02,sizeOfHelmet,medium
+00002,499927-02,helmetFetures,with goggles
+00002,499927-02,protection,harmful light protected
+00002,499927-02,arcWelding,fully automated
+00002,499927-02,weldingLens,Athermal green lenses 
+00002,499927-02,ultravioletLightProtection,380
+00002,499927-02,isSparksProtection,yes
+00002,499927-02,infraredLightProtection,355
+00002,499927-02,heatProtection,9.8
+00002,499927-02,isShieldedMetalArcWelding,yes
+00002,499927-02,isGasTungstenArcWelding,yes
+00002,499927-02,isGasMetalArcWelding,yes
+00002,499927-02,weldingLensGlassThickness,1.9
+00002,499927-02,weldingLensColor,red
+00002,499927-02,weldingLensShade,11
+

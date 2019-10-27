@@ -1,0 +1,11 @@
+00001,00001-0-weightValRule,range,float
+00001,00001-0-dimensionValRule,range,float
+00001,00001-0-colorValRule,list,string
+00001,00001-0-manufacturerNameValRule,list,string
+00001,00001-0-mfgDateValRule,list,string
+00001,00001-0-priceValRule,range,float
+00001,00001-0-instructionsValRule,container,string
+00001,00001-0-subInstructionsValRule,list,string
+00001,00001-0-yesNoTypeValRule,list,string
+00001,00001-0-urlValRule,list,string
+

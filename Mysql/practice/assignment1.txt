@@ -1,0 +1,23 @@
+
+[ assignment
+
+[subject - [DB17-STUDENTS-SCHEMA]]
+[deadline - 03/08/2017 11am]
+[attachment - a single file [rollno].sql]
+[assignment text - [
+
+write and submit a single sql file, named [rollno].sql, containing the following - 
+ code to create schema for the students database as discussed in the class.
+
+the students who cannot submit softcopy of the code, may submit the code in written form on paper, for this assignment.
+
+Notes - 
+a note about naming the file to be attached - if your rollno is abcde, then you should name the file abcde.sql 
+e.g. if your roll number is 17101, then you should name the file 17101.sql
+
+Also note that i filter the messages based on subject text and attachment file names. so make sure that you set those values correctly. slight errors in those values may result in automatic rejection of your submission.
+
+]
+]
+]
+

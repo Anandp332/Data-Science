@@ -1,0 +1,15 @@
+00001,0,weight,-1
+00001,0,dimension1,-1
+00001,0,dimension2,-1
+00001,0,dimension3,-1
+00001,0,color,noColor
+00001,0,manufacturer Name,noMfgname
+00001,0,mfgDate,noMfgDate
+00001,0,price,-1
+00001,0,instructions,put the instructions regarding usage and other aspects of the product in this container
+00001,0,subInstruction1,this subInstruction is under the instructions  
+00001,0,subInstruction2,this subInstruction is under the instructions
+00001,0,subInstruction3,this subInstruction is under the instructions
+00001,0,subInstruction4,this subInstruction is under the instructions
+00001,0,url,http://gootax.com/
+

@@ -1,0 +1,15 @@
+00001,0,weight,gm,00001-0-weightValRule
+00001,0,dimension1,cm,00001-0-dimensionValRule
+00001,0,dimension2,cm,00001-0-dimensionValRule
+00001,0,dimension3,cm,00001-0-dimensionValRule
+00001,0,color,"",00001-0-colorValRule
+00001,0,manufacturer Name,"",00001-0-manufacturerNameValRule
+00001,0,mfgDate,"",00001-0-mfgDateValRule
+00001,0,price,rs,00001-0-priceValRule
+00001,0,instructions,"",00001-0-instructionValRule
+00001,0,subInstruction1,"",00001-0-subInstructionsValRule
+00001,0,subInstruction2,"",00001-0-subInstructionsValRule
+00001,0,subInstruction3,"",00001-0-subInstructionsValRule
+00001,0,subInstruction4,"",00001-0-subInstructionsValRule
+00001,0,url,"",00001-0-urlValRule
+

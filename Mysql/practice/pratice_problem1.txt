@@ -1,0 +1,32 @@
+/*
+refer att.sql.tar.xz at [0] for the sample database and data.
+note - you have to download the file and then extract it; you may use the following command
+$ tar -xJf att.sql.tar.xz
+
+then load the att.sql in sqlite
+
+write sql queries for the following
+
+1. retrieve the joining days of all employees
+2. retrieve the employee(s) who have joined the latest
+3. retrieve the number of working days of all employees
+4. retrieve the days on which at least one present employee worked 9 or more hours
+5. retrieve the days on which no present employee worked less than 8 hours
+6. retrieve the employees which were absent the most
+7. retrieve the employees which were absent the least
+8. retrieve the employees which have worked the most
+
+Note that the practice problems will NOT be considered towards continuous assessment. Refer the file about-practice-problems.txt at [0]. Barring this, you may wish to submit your solutions to these practice problems, and if you do wish so then you have to do the following - 
+
+1. You have to send a single file with extension "sql" as attachment. No other extension will be processed further. Name of the attached file should be your roll number. Make sure that the file size doesn't exceed 50KB. Your roll number is a five digit string. If you do NOT name the file as per this rule, your practice problem submission might be ignored.
+
+2. You have to send an email to "assignments<DOT>pucsd<AT>gmail<DOT>com" with the subject: DBMS17_PRACTICE_1_ATT
+
+Note that I am going to filter messages on the basis of the subject text ONLY. So, you should send the email with the exact subject text given above. Even slight change might result in rejection.
+
+If you have any doubts regarding the practice problems, you may meet me.
+
+[0] http://tinyurl.com/pucsdJuly16
+
+*/
+

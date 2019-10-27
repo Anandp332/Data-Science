@@ -1,0 +1,14 @@
+00002,helmetFeatures,protection,1
+00002,helmetFeatures,arcWelding,2
+00002,helmetFeatures,weldingLens,3
+00002,protection,ultravioletLightProtection,1
+00002,protection,isSparksProtection,2
+00002,protection,infraredLightProtection,3
+00002,protection,heatProtection,4
+00002,arcWelding,isShieldedMetalArcWelding,1
+00002,arcWelding,isGasTungstenArcWelding,2
+00002,arcWelding,isGasMetalArcWelding,3
+00002,weldingLens,weldingLensGlassThickness,1
+00002,weldingLens,weldingLensColor,2
+00002,weldingLens,weldingLensShade,3
+

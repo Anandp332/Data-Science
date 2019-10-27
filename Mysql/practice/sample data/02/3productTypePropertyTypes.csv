@@ -1,0 +1,20 @@
+00002,helmetGlass,is glass provided with the helmet?(yes/no)
+00002,helmetMaterial,the material used to construct the helmet
+00002,sizeOfHelmet,helmet comes in 3 size small/medium/large
+00002,isHelmetWaterproof,yes/no
+00002,isHelmetSmart,yes/no
+00002,helmetFeatures,""
+00002,protection,""
+00002,arcWelding,""
+00002,weldingLens,""
+00002,ultravioletLightProtection,how much guarding is provided against ultraviolet light
+00002,isSparksProtection,is helmet provide sparks protection(yes/no)
+00002,infraredLightProtection,how much guarding is provided against infrared light
+00002,heatProtection,how much heat protection is provided
+00002,isShieldedMetalArcWelding,is helmet welding is shieled metalic arc welding(yes/no)
+00002,isGasTungstenArcWelding,is helmet welding is gas tungsten arc welding(yes/no)
+00002,isGasMetalArcWelding,is helmet welding is gas metal arc welding(yes/no)
+00002,weldingLensGlassThickness,glass equipped with lens
+00002,weldingLensColor,""
+00002,weldingLensShade,saftey glass lens with shades
+
